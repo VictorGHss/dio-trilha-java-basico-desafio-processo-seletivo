@@ -54,6 +54,6 @@ O código está organizado em métodos estáticos dentro da classe `ProcessoSele
    - Gera um valor aleatório de salário pretendido entre R$ 1.800,00 e R$ 2.200,00.
 
 7. **`atender()`**
-   - Simula a probabilidade de um candidato atender o contato (33% de chance).
+   - Simula a probabilidade de um candidato atender o contato.
 
 ---
