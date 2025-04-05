@@ -28,8 +28,6 @@ Este repositório contém a implementação de um desafio de código do Bootcamp
 
 ## 🛠️ **Estrutura do Código**
 
-O código está organizado em métodos estáticos dentro da classe `ProcessoSeletivo`. Abaixo estão as descrições dos principais métodos:
-
 ### **Métodos Principais**
 
 1. **`main(String[] args)`**
